@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Andi%20Ashadelah&section=header&reversal=true&fontSize=65&fontAlignY=45&desc=A%20Web%20Developer&descAlign=50&descSize=20">
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Andi+Ashadelah+👋;Computer+Engineering+%26+IT+Student;Passionate+about+Code+%26+Networks" alt="Typing SVG" />
-</h1>
 
 
 ## 🌐 Socials:
