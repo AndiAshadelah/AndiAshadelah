@@ -23,10 +23,9 @@ I'm an **Information Technology & Computer Engineering** student who enjoys navi
 ![](https://streak-stats.demolab.com/?user=AndiAshadelah&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AndiAshadelah&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
 [![](https://komarev.com/ghpvc/?username=AndiAshadelah&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
