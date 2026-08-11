@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Andi%20Ashadelah&section=header&reversal=true&fontSize=65&fontAlignY=45&desc=A%20Web%20Developer&descAlign=50&descSize=20">
-<h1 align="center">
-
 # 👋 Halo, I'm Andi Ashadelah!
 
 I'm an **Information Technology & Computer Engineering** student who enjoys navigating the space between software logic, system architectures, and creative design. 
